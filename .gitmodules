@@ -1,0 +1,3 @@
+[submodule "fastclick-sloth"]
+	path = fastclick-sloth
+	url = git@github.com:UCLouvain-ENSG/fastclick-sloth.git
